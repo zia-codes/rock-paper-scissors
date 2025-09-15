@@ -6,6 +6,9 @@ Challenge the computer and see if you can win!
 Live Demo
 Click here to play (https://zia-codes.github.io/rock-paper-scissors/)
 
+Game Screenshot: (images/screenshot.png)
+
+
 
 # Features
 - Play Rock, Paper, or Scissors against the computer  
